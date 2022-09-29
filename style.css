@@ -1,0 +1,21 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 960px;
+    width: 960px;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
